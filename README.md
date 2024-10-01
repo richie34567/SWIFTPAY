@@ -1,3 +1,1 @@
 # SWIFTPAY
-
-README file
